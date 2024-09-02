@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://eurotas-demo.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://eurotas-demo.myshopify.com/blogs/news/tagged/slides.atom"/>
+  <title> Eurotas - Running Shoes, Sports Shoes &amp; Clothes Shopify Theme - News</title>
+  <updated>2019-09-25T08:30:00-04:00</updated>
+  <author>
+    <name> Eurotas - Running Shoes, Sports Shoes &amp; Clothes Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/blogs/news/ola-volo-s-footprints-in-folklore</id>
+    <published>2019-09-19T07:00:00-04:00</published>
+    <updated>2019-09-26T03:08:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/blogs/news/ola-volo-s-footprints-in-folklore"/>
+    <title>Ola Volo’s Footprints in Folklore</title>
+    <author>
+      <name>ADMIN 1</name>
+    </author>
+    <summary type="html">
+      <![CDATA[At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.<p><a class="read-more" href="https://eurotas-demo.myshopify.com/blogs/news/ola-volo-s-footprints-in-folklore">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/blog-post-img1.jpg?v=1568105808" alt=""></p>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+<div class="row">
+<div class="col-lg-6 col-12">
+<p><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/blog-post-img2.jpg?v=1568105870" alt=""></p>
+</div>
+<div class="col-lg-6 col-12">
+<h5>Shoes For The Big Day.</h5>
+<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<blockquote>
+<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born.</p>
+</blockquote>
+<p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain.</p>
+</div>
+</div>
+<h5>Never Enough Lace - Ups.</h5>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+<ul>
+<li>Maecenas sed dapibus eros.</li>
+<li>Phasellus eu mi metus.</li>
+<li>Morbi blandit dolor ac rhoncus semper.</li>
+</ul>
+<p>Aenean et ex ut elit tincidunt rutrum vitae eleifend metus. Nunc tincidunt venenatis tellus euismod fermentum. Maecenas sed dapibus eros.</p>]]>
+    </content>
+  </entry>
+</feed>

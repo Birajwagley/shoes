@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://eurotas-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://eurotas-demo.myshopify.com/collections/new-arrival.atom"/>
+  <title> Eurotas - Running Shoes, Sports Shoes &amp; Clothes Shopify Theme</title>
+  <updated>2019-09-27T00:07:56-04:00</updated>
+  <author>
+    <name> Eurotas - Running Shoes, Sports Shoes &amp; Clothes Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/4166413713462</id>
+    <published>2019-09-27T00:07:56-04:00</published>
+    <updated>2019-09-27T00:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/pod-s3-1-shoes-2"/>
+    <title>POD-S3.1 Shoes</title>
+    <s:type>Men&apos;s Basketball Shoe</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/Layer-36.jpg?v=1569566459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Men&#39;s Basketball Shoe<br>
+        <strong>Price: </strong>
+            100.00 - 120.00
+            <a href="https://eurotas-demo.myshopify.com/products/pod-s3-1-shoes-2">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $150</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/4166413713462</id>
+      <title>White / 4</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/4166413713462</id>
+      <title>Red / 6</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/4166413713462</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/4166413713462</id>
+      <title>Orange / 3</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/4166413713462</id>
+      <title>Green / 5</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/4166413713462</id>
+      <title>White / 6</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/2272685883446</id>
+    <published>2019-08-14T06:26:30-04:00</published>
+    <updated>2019-08-14T06:26:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/summit-unknown"/>
+    <title>Summit Unknown</title>
+    <s:type>Women&apos;s Running</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/product-v1-img8.jpg?v=1565778424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Women&#39;s Running<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2272685883446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/2272684113974</id>
+    <published>2019-08-14T06:25:39-04:00</published>
+    <updated>2019-08-14T06:25:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/jordan-zer0-1-low-n7"/>
+    <title>Jordan Zer0.1 Low N7</title>
+    <s:type>Men&apos;s Basketball Shoe</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/product-v1-img7.jpg?v=1565778376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Men&#39;s Basketball Shoe<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2272684113974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/2272682672182</id>
+    <published>2019-08-14T06:25:06-04:00</published>
+    <updated>2019-08-14T06:25:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/nemeziz-18-firm-ground-cleats"/>
+    <title>Nemeziz 18+ Firm Ground Cleats</title>
+    <s:type>Men&apos;s Soccer</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/product-v1-img6.jpg?v=1565778336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Men&#39;s Soccer<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2272682672182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/2272679788598</id>
+    <published>2019-08-14T06:23:03-04:00</published>
+    <updated>2019-08-14T06:23:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/reebok-split-fuel"/>
+    <title>Reebok Split Fuel</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/product-v1-img4.jpg?v=1565778217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Lifestyle<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2272679788598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/2272678903862</id>
+    <published>2019-08-14T06:22:34-04:00</published>
+    <updated>2019-08-14T06:22:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/mobius-og"/>
+    <title>Mobius OG</title>
+    <s:type>Classics</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/product-v1-img3.jpg?v=1565778175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Classics<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot</s:tag>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2272678903862</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/2272678543414</id>
+    <published>2019-08-14T06:21:49-04:00</published>
+    <updated>2019-08-14T06:21:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/yung-1-shoes"/>
+    <title>Yung-1 Shoes</title>
+    <s:type>Men&apos;s Originals</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/product-v1-img2.jpg?v=1565778143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Men&#39;s Originals<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2272678543414</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/2028279726134</id>
+    <published>2019-03-22T21:52:54-04:00</published>
+    <updated>2019-03-22T21:52:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/jordan-grind-2-unc"/>
+    <title>Jordan Grind 2 UNC</title>
+    <s:type>Men&apos;s Running Shoe</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/product-5_1525fd60-44a7-4300-8c09-7869ff6eb274.jpg?v=1553306015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Men&#39;s Running Shoe<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2028279726134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://eurotas-demo.myshopify.com/products/2027350163510</id>
+    <published>2019-03-21T21:59:39-04:00</published>
+    <updated>2019-03-21T21:59:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://eurotas-demo.myshopify.com/products/air-jordan-xxxiii"/>
+    <title>Air Jordan XXXIII</title>
+    <s:type>Men&apos;s Basketball Shoe</s:type>
+    <s:vendor>Eurotas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0145/5613/5478/products/product-1.jpg?v=1569556553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eurotas<br>
+        <strong>Type: </strong>Men&#39;s Basketball Shoe<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content-des">
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">POD-S3.1 Shoes</h4>
+<p>High-tech shoes that mix modern materials for flexible support. The P.O.D. System is reborn from the archives with new levels of comfort, flexibility and design. These shoes have a knit upper that gently hugs your foot for a sock-like feel. An elastic bungee on the tongue and TPU 3-Stripes give them a high-tech look.</p>
+</div>
+<div class="image-desc d-flex">
+<div class="style1"><img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img1.jpg?v=1568264250" alt="" class="w-100 img-fluid"></div>
+<div class="style2">
+<img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img2.jpg?v=1568264274" alt="" class="w-100 img-fluid"> <img src="//cdn.shopify.com/s/files/1/0145/5613/5478/files/product-des-img3.jpg?v=1568264294" alt="" class="w-100 img-fluid">
+</div>
+</div>
+<div class="col-xl-6 col-12 p-0">
+<h4 class="title-des">P.O.D. System</h4>
+<p class="mb-lg-4">This redo of a '90s-era design modular midsole combines high-rebound EVA in the forefoot and Boost in the heel while TPU in the midfoot offers torsional support for comfort with every stride.</p>
+<h4 class="title-des">Endless Energy</h4>
+<p>Boost is our most responsive cushioning ever, delivering incredible energy return: The more energy you give, the more you get.</p>
+<p>Authentic '90s style A chunky midsole and archive-inspired design nod back to vintage looks.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $150</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2027350163510</id>
+      <title>Blue / 4</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2027350163510</id>
+      <title>Red / 6</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2027350163510</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://eurotas-demo.myshopify.com/products/2027350163510</id>
+      <title>Gray / 3</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
